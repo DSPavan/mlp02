@@ -1,0 +1,31 @@
+data science interview questions
+
+https://www.interviewbit.com/data-science-interview-questions/#overfitting-vs-underfitting-conditions
+
+
+https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/
+
+
+
+https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions
+
+
+https://nptel.ac.in/content/storage2/courses/downloads/106105152/Week_08_Assignment_08.pdf
+
+https://www.edureka.co/blog/interview-questions/data-science-interview-questions/
+
+https://towardsdatascience.com/essential-python-coding-questions-for-data-science-interviews-4d33d15008e6
+
+https://www.interviewquery.com/blog-python-data-science-interview-questions
+
+https://medium.com/analytics-vidhya/80-interview-questions-on-python-for-data-science-30313688505 
+
+
+https://www.analyticsvidhya.com/blog/2017/05/questions-python-for-data-science/
+
+
+
+
+
+
+
